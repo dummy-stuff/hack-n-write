@@ -32,5 +32,6 @@ We broke down contributing into 5 steps
 0. Wait for a review
 
 ## Will I succeed?
-![outstanding-success-stories-thumb](https://user-images.githubusercontent.com/40396070/95624781-50e89700-0a6f-11eb-985a-90cd862c549b.png)
+![my-top-5-usa-countdown-4-andy-mi](https://user-images.githubusercontent.com/40396070/95625126-e84dea00-0a6f-11eb-9cef-e5391f2816ce.jpg)
+
 Of course. Even if you haven't contirbuted to open source before. Remember, the goal is 4 PRs. Just ensure you follow the contributing guidelines of each repo you forked and our code of conduct.
