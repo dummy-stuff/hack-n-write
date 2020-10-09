@@ -1,4 +1,3 @@
-# Hack n' Write
 ![hack-n-write](https://user-images.githubusercontent.com/40396070/95624626-1a128100-0a6f-11eb-8f3c-701c1baf3ea1.png)
 
 ## Introduction
