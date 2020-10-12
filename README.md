@@ -1,4 +1,4 @@
-![hack-n-write](https://user-images.githubusercontent.com/40396070/95624626-1a128100-0a6f-11eb-8f3c-701c1baf3ea1.png)
+![hack-n-write-landscape](https://user-images.githubusercontent.com/40396070/95742659-42c19300-0c88-11eb-8b9e-b5152354aa92.png)
 
 ## Introduction
 Hack n' Write is an event created to support the HacktoberFest mission of getting more people into open source. 
