@@ -4,7 +4,7 @@
 Hack n' Write is an event created to support the HacktoberFest mission of getting more people into open source. 
 
 ## Timeline
-Hack n' Write 2020 runs from the 13th to the 31st of October 2020. It starts with a 2 day event from the 13th to the 15th. PRs can be made from the 13th to the 31st. 
+Hack n' Write 2020 runs from the 13th to the 31st of October 2020. It starts with an event on the 13th. PRs can be made from the 13th to the 31st. 
 
 ## Benefits
 Everyone who partipates and makes 4 PRs and above will receive the standard HacktoberFest T-Shirt with some Dev.to swag on the side. 
@@ -17,14 +17,13 @@ First you select a prefered stack. You can work on multiple stacks. For this mai
 
 1. HTML, CSS, JavaScript
 0. Django
-0. React
-0. Expressjs
+0. React (Next.js)
 0. Laravel + Vue
 
 You can select multiple stacks. After selecting a stack, you follow the stack's repo directives to initialize the project and start contributing. 
 
 ## How to contribute?
-We broke down contributing into 5 steps
+We broke down contributing into 4 steps
 1. Pick an issue
 0. Work on the issue
 0. Make a Pull Request
